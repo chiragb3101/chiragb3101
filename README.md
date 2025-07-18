@@ -37,7 +37,7 @@ I specialize in tools and frameworks for creating robust, high-performance appli
 ## 📫 Get in Touch
 - 📧 Email: chiragb3101@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/chiragb3101/)  
-- 🐦 [@chiragb3101](https://twitter.com/chiragb3101)  
+- 🐦 [X](https://x.com/ChiragBulchand7)  
 - 🌐 [Portfolio](https://chirag-bulchandani.vercel.app/)  
 
 I'm open to discussions on software development, AI projects, or collaborations. Feel free to reach out or check out my repositories!
