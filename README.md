@@ -21,8 +21,6 @@ I specialize in tools and frameworks for creating robust, high-performance appli
   A professional React library providing headless and styled components for AI workflows, such as chat interfaces and command palettes. Includes 25+ accessible, tree-shakable elements with themes, ARIA support, and automated CI/CD pipelines. Install with `npm i agenticui`.  
 
 
-View my [pinned repositories](https://github.com/chiragb3101) for more projects and contributions.
-
 ## 📜 Publications
 - **AI-Based Augmented Reality Assistant**  
   *International Journal of Intelligent Systems and Applications in Engineering (IJISAE)*  
