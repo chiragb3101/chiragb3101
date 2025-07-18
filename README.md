@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Chirag Bulchandani
 
-![Chirag's Banner](https://raw.githubusercontent.com/chiragb3101/chiragb3101/main/banner.png) <!-- Upload a cool banner image to your repo, e.g., an AI-themed graphic like circuits, robots, or code in motion. You can use tools like Canva or find free ones on Unsplash. -->
-
 **Software Engineer | AI & Full-Stack Developer**  
 chiragb3101@gmail.com | [LinkedIn](https://www.linkedin.com/in/chiragb3101/) | [X](https://x.com/ChiragBulchand7)  
 
