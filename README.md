@@ -39,6 +39,3 @@
 
 - Agentic frameworks (Agno) for autonomous AI agents  
 - Design system for Agentic-UI—scalable, consistent UI components  
-- High-performance dashboards (35M+ records)  
-- Open-source tooling & CI/CD workflows  
-- React Native mobile apps with AI chatbots & notifications
