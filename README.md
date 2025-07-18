@@ -3,7 +3,7 @@
 **Software Engineer | AI & Full-Stack Developer**  
 chiragb3101@gmail.com | [LinkedIn](https://www.linkedin.com/in/chiragb3101/) | [X](https://x.com/ChiragBulchand7)  
 
-I'm a software engineer passionate about building scalable, efficient applications with a focus on AI integrations, performance optimization, and modern web technologies. I've developed tools that handle large-scale data (35M+ records), create AI-driven experiences, and automate workflows. Always exploring new tech and open to collaborations on innovative projects. Let's connect! 🚀
+I'm a software engineer passionate about building scalable, efficient applications with a focus on AI integrations, performance optimization, and modern web technologies. I've developed tools that handle large-scale data (35M+ records), create AI-driven experiences, and automate workflows. Always exploring new tech and open to collaborations on innovative projects. Let's connect!
 
 ## 🛠️ Skills & Technologies
 I specialize in tools and frameworks for creating robust, high-performance applications. Key areas include:
